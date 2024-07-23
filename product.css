@@ -112,7 +112,7 @@ header label{
     }
 }
 .bg-container{
-    background-image: url("../images/products-page-heading.jpg");
+    background-image: url("./images/products-page-heading.jpg");
     height:600px;
     width: 100%;
     background-size: cover;
